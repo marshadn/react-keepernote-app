@@ -50,3 +50,5 @@ To start the development server, run:
 
 ```bash
 npm start
+or
+npm run dev
